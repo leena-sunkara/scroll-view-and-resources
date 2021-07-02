@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ScrollViewYou</string>
+    <string name="work_email">Work Email*:</string>
+    <string name="last_name">Last Name*:</string>
+    <string name="first_name">First Name*:</string>
+    <string name="title">Title:</string>
+    <string name="text">Add New Employee</string>
+    <string name="sample_title">Intern HR</string>
+    <string name="sample_first_name">Jonathan</string>
+    <string name="sample_last_name">Doe</string>
+    <string name="sample_mail_id">jonathan.doe@cakehr.com</string>
+    <string name="extra_text">(This is also used as login for CakeHR)</string>
+    <string name="icon" />
+</resources>

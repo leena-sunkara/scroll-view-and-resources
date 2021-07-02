@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="customDisplay">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+
+    <style name="customEdit">
+        <item name="android:inputType">text</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:background">@drawable/et_box</item>
+        <item name="android:textSize">@dimen/text_size</item>
+        <item name="android:layout_marginBottom">15dp</item>
+    </style>
+</resources>
